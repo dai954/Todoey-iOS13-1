@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		091EC35C262DED7900CE2A38 /* SwipeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 091EC35B262DED7900CE2A38 /* SwipeTableViewController.swift */; };
 		09610212261CE67600B0780E /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09610211261CE67600B0780E /* CategoryViewController.swift */; };
 		0972679B2626092100A790F7 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972679A2626092100A790F7 /* Item.swift */; };
 		0972679E2626093100A790F7 /* Category.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0972679D2626093100A790F7 /* Category.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		091EC35B262DED7900CE2A38 /* SwipeTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeTableViewController.swift; sourceTree = "<group>"; };
 		09610211261CE67600B0780E /* CategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
 		0972679A2626092100A790F7 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		0972679D2626093100A790F7 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Category.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				09610211261CE67600B0780E /* CategoryViewController.swift */,
+				091EC35B262DED7900CE2A38 /* SwipeTableViewController.swift */,
 				EB2BE4FD239524DB00FB933B /* TodoListViewController.swift */,
 			);
 			path = Controllers;
@@ -248,6 +251,7 @@
 				09610212261CE67600B0780E /* CategoryViewController.swift in Sources */,
 				EB2BE4FE239524DB00FB933B /* TodoListViewController.swift in Sources */,
 				EB2BE4FA239524DB00FB933B /* AppDelegate.swift in Sources */,
+				091EC35C262DED7900CE2A38 /* SwipeTableViewController.swift in Sources */,
 				0972679E2626093100A790F7 /* Category.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
